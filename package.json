@@ -1,5 +1,5 @@
 {
-  "name": "datatable_crud",
+  "name": "datatable",
   "version": "1.0.0",
   "description": "Learning React CRUD with mock json database",
   "scripts": {
