@@ -1,0 +1,57 @@
+{
+  "userProfile": [
+    {
+      "id": 1,
+      "contactInfo": "60123456789",
+      "contactTyp": "M",
+      "name": "John Smith",
+      "gender": "M",
+      "age": "24"
+    },
+    {
+      "id": 2,
+      "contactInfo": "jsccs44@haysc.com",
+      "contactTyp": "E",
+      "name": "Jesson",
+      "gender": "F",
+      "age": "31"
+    },
+    {
+      "id": 3,
+      "contactInfo": "12123456789",
+      "contactTyp": "M",
+      "name": "John Smith",
+      "gender": "F",
+      "age": "24"
+    },
+    {
+      "name": "aaaa",
+      "gender": "M",
+      "contactInfo": "11",
+      "age": "1",
+      "id": 4
+    },
+    {
+      "name": "aaa",
+      "gender": "M",
+      "contactInfo": "a",
+      "age": "1",
+      "id": 6
+    },
+    {
+      "name": "ab",
+      "gender": "F",
+      "contactInfo": "ab",
+      "age": "3",
+      "id": 7
+    },
+    {
+      "name": "11",
+      "gender": "M",
+      "contactInfo": "1111111111",
+      "age": "11",
+      "contactTyp": "M",
+      "id": 8
+    }
+  ]
+}
